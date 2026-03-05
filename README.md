@@ -21,3 +21,4 @@ A simple  powerful Python-based **port scanner** developed as part of my cyberse
 - Python 3.x installed on your system
 - VS Code (optional, any text editor works)
 - No external libraries required! (uses only built-in modules)
+
